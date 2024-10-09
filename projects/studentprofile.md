@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/studentprofile (1).png
 title: "Student Profile"
 date: 2024-05-26
 published: true

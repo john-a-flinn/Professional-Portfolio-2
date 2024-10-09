@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/morse (2).png
 title: "Morse Code"
 date: 2024-05-26
 published: true
