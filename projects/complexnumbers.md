@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/complexnum (2).png
 title: "Complex Numbers"
 date: 2024-05-26
 published: true
