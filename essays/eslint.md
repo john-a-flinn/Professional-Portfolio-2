@@ -2,10 +2,12 @@
 layout: essay
 type: essay
 title: "Reflect on TypeScript"
-date: 2024-26-05
+# All dates must be YYYY-MM-DD format!
+date: 2015-08-26
 published: true
 labels:
   - Answers to homework
+  - Learning
 ---
 
 The first thing I noticed about the ESLint coding standards is that 
