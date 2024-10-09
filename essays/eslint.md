@@ -5,7 +5,7 @@ title: "Reflect on TypeScript"
 date: 2024-26-05
 published: true
 labels:
-  - Answers
+  - Answers to homework
 ---
 
 The first thing I noticed about the ESLint coding standards is that 
