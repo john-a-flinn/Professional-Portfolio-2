@@ -8,7 +8,7 @@ published: true
 labels:
   - Learning
 ---
-<img class="float-start pe-4" src="/img/image.png" /></p>
+<img class="float-start pe-4" src="/img/image.png" />
 
 Mastering Bootstrap 5: Simplifying Web Development with Efficiency and Consistency
 
