@@ -8,14 +8,10 @@ published: true
 labels:
   - Learning
 ---
-<img class="float-start pe-4" src="/img/image.png" />
-<img class="float-start pe-4" src="/img/dukeshawaii.jpg" />
-<img class="float-start pe-4" src="img/image.png" />
-<img class="float-start pe-4" src="img/dukeshawaii.jpg" />
-![Bootstrap Logo](/img/image.png)
-![Bootstrap Logo](/img/dukeshawaii.jpg)
-![Bootstrap Logo](img/image.png)
-![Bootstrap Logo](img/dukeshawaii.jpg)
+<img class="float-start pe-4" src="img/image.png" alt="image" />
+<img class="float-start pe-4" src="/img/dukeshawaii.jpg" alt="image" />
+<img class="float-start pe-4" src="/img/image.png" alt="image" />
+<img class="float-start pe-4" src="img/dukeshawaii.jpg" alt="image" />
 
 Mastering Bootstrap 5: Simplifying Web Development with Efficiency and Consistency
 
