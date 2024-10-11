@@ -8,7 +8,7 @@ published: true
 labels:
   - Learning
 ---
-![Bootstrap Webpage](img/image.png "An example of a Bootstrap-built website I made")
+<img class="float-start pe-4" src="/img/image.png" /></p>
 
 Mastering Bootstrap 5: Simplifying Web Development with Efficiency and Consistency
 
