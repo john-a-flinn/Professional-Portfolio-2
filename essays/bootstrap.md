@@ -3,13 +3,12 @@ layout: essay
 type: essay
 title: "Understanding Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
-images: img/images.png
 date: 2024-10-10
 published: true
 labels:
   - Learning
 ---
-![Responsive Bootstrap Webpage](img/images.png "An example of a Bootstrap-built website I made")
+![Bootstrap Webpage](img/images.png "An example of a Bootstrap-built website I made")
 
 Mastering Bootstrap 5: Simplifying Web Development with Efficiency and Consistency
 
