@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/complexnum (2).png
+image: /img/dukeshawaii.jpg
 title: "Complex Numbers"
 date: 2024-05-26
 published: true

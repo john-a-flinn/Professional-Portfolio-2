@@ -9,9 +9,6 @@ labels:
   - Learning
 ---
 <img class="float-start pe-4" src="/img/complexnum (2).png" alt="image" />
-<img class="float-start pe-4" src="/img/dukeshawaii.jpg" alt="image" />
-<img class="float-start pe-4" src="/img/image.png" alt="image" />
-<img class="float-start pe-4" src="img/dukeshawaii.jpg" alt="image" />
 
 Mastering Bootstrap 5: Simplifying Web Development with Efficiency and Consistency
 
