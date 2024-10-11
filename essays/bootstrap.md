@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-image: /img/image.jpg
 title: "Understanding Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
@@ -9,7 +8,7 @@ published: true
 labels:
   - Learning
 ---
-<img class="float-start pe-4" src="/img/complexnum (2).png" alt="image" />
+<img class="float-start pe-4" src="/img/image.png" alt="image" />
 
 Mastering Bootstrap 5: Simplifying Web Development with Efficiency and Consistency
 
