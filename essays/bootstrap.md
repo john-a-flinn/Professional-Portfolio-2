@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Understanding Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-10-10
 published: true
 labels:
   - Learning
