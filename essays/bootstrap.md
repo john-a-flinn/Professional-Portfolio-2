@@ -8,7 +8,7 @@ published: true
 labels:
   - Learning
 ---
-![Bootstrap Webpage](img/images.png "An example of a Bootstrap-built website I made")
+![Bootstrap Webpage](img/image.png "An example of a Bootstrap-built website I made")
 
 Mastering Bootstrap 5: Simplifying Web Development with Efficiency and Consistency
 
