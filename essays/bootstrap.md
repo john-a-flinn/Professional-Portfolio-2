@@ -17,7 +17,7 @@ labels:
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <img class="float-start pe-4" src="/img/image.png" alt="image" />
+    <img class="float-start pe-4" src="/img/http://image.png" alt="image" />
     
     <h1>Mastering Bootstrap 5: Simplifying Web Development with Efficiency and Consistency</h1>
     
