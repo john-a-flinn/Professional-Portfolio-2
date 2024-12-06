@@ -10,7 +10,6 @@ labels:
   - Learning
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +19,6 @@ labels:
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <img class="float-start pe-4" src="http://image.png" alt="Design Patterns Illustration" />
 
     <h1>Design Patterns: A Recipe for Software Solutions</h1>
     <p>
