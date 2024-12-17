@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Personal Experience with AI in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-05
+date: 2024-12-16
 published: true
 labels:
   - Answers to homework
@@ -29,13 +29,37 @@ labels:
 
         <h2>Personal Experience with AI</h2>
         <p>
-            For the experience WODs, since there wasn’t a limit to the number of attempts, I would first try to solve the WOD with little to no AI assistance. If I encountered something I didn’t understand, I would use AI to help me figure it out. During these WODs, I primarily focused on fixing syntax errors in my code and learning from my mistakes. If I failed, I used AI to generate solutions and compared them to my initial attempt to understand where I went wrong.
+            For the experience WODs, since there wasn’t a limit to the number of attempts, I would first try to solve the WOD with little to no AI assistance. If I encountered something I didn’t understand, I would use AI to help me figure it out. Since most of these experience WODs happened at the start of the year, I mostly used the first attempt to fix syntax errors in my code. If I failed on the first try, I would then use AI, copy the question, and ask for a solution in the relevant programming language. If that solution worked and I finished the WOD on time, I would compare the first attempt to the second by copying my first try and asking AI to explain what I did wrong. Lastly, if I couldn’t solve the problem even with AI, I would watch the instructor's video while using AI to clarify any unclear explanations. I would take screenshots of the changes shown in the video and type out what the instructor said.
         </p>
         <p>
-            For in-class practice WODs with time limits, I used AI to quickly generate solutions by providing assignment details. I often formatted, completed text blocks, or inserted images as needed. For final projects, I relied on AI for formatting pages, adding functionality, and debugging. By iteratively using AI to explain unfamiliar concepts or print debugging statements, I solved complex problems more effectively.
+            For the in-class practice WODs, which had a time limit, I would copy all the relevant information from the assignment and then use ChatGPT to generate the code. Depending on the result, I sometimes needed to format the code, finish incomplete text blocks, or insert images.
         </p>
         <p>
-            AI was particularly useful for learning. When I encountered code I didn’t understand, I asked AI for explanations or simplified versions. For quality assurance, I used AI to identify and fix ESLint errors or reformat code to meet coding standards.
+            The actual WODs were similar to the practice ones, but I used the same question chain strategy. I provided the relevant assignment details, and if there was an image tied to it (like a website design), I included the image in the file. Then, I would insert the code AI provided into my file and handle any necessary formatting, completing text blocks, or inserting images. It didn’t take much time since it only required reading a couple hundred lines of code. Occasionally, the AI would also add helpful comments explaining the code.
+        </p>
+        <p>
+            For essays, I would write them myself based on my experience and then use AI to check grammar and spelling. I iterated on the AI's suggestions until the essay was both grammatically correct and maintained the spirit of the original writing.
+        </p>
+        <p>
+            For the final project I would either use AI for formatting a page, adding functionality, and debugging. For formatting a page I would find a website that had an image I liked then I would have AI making it according to the image I gave it. This would give me a basic outline of what I wanted. Then I would using AI to give it parts of what I would like to be add and have it print the whole code as a new one. Then I would copy and paste and check github desktop for the changes and where they were in the code. Then if they looked good I would publish and push the changes. For debugging I would ask to add prints to the website then keep iterating more prints until I figured out where the bug was. For example when trying to make a submit function work I used AI to add print to all the options until I realized there was a button I didn’t know about that came from a teamtate. 
+        </p>
+        <p>
+            For learning, I would input code I didn’t understand and ask AI for an explanation. If the explanation was still unclear, I would ask for a simpler version or request links to websites with answers I could better understand.
+        </p>
+        <p>
+            To answer questions, I used ChatGPT to generate responses to professor questions and compared them to my classmates' answers. I never had to ask questions in the "smart-question" channel because ChatGPT typically gave me the answers beforehand.
+        </p>
+        <p>
+            An example of debugging (expanding on point 5) was when I typed, “Search for a variable called material” that was preventing me from submitting my code. Expanding on point 9, the AI initially gave me answers that didn’t make sense until I rephrased the question. Eventually, it identified that a button was creating the variable, and I needed to check if a different button was being pressed.
+        </p>
+        <p>
+            For writing code, AI was really helpful when I provided a specific goal and had it generate the solution. I would then check GitHub to review the changes and ensure they were correct. Occasionally, I would delete unnecessary parts of the AI-generated code, such as placeholder product lists for my final project.
+        </p>
+        <p>
+            For documentation, I preferred to write it myself to ensure I understood the code and that the AI-generated code was correct. If I didn’t understand something, I would ask AI to explain specific lines of code in the same conversation thread.
+        </p>
+        <p>
+            For quality assurance, I would take a screenshot of the ESLint error and ask AI for a solution or have it reformat the code to resolve issues like the 120-character line limit.
         </p>
 
         <h2>Impact on Learning and Understanding</h2>
